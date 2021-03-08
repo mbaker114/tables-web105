@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(41, 41, 65);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: rgb(153, 79, 52);
+}
+
+nav{
+    text-align: center;
+}
+nav a{
+    color: crimson;
+    padding: 15px 10px;
+    background-color: darkgreen;
+    border-radius: 20px;
+    text-decoration: none;
+    border: 5px solid deepskyblue;
+}
+nav a:hover{
+    background-color: crimson;
+    color: black;
+    font-weight: bolder;
+}
+h1{
+    text-align: center;
+    color: khaki;
+    background-color: gray;
+    padding: 5px;
+
+}
+h2{
+    text-align: center;
+    color: rgb(37, 4, 21);
+    padding: 10px;
+}
+td{
+    text-align: center;
+}
+p{
+    padding-top: 300px;
+    font-size: xx-small;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: rgb(2, 151, 114);
+    font-size: x-large;
+}
